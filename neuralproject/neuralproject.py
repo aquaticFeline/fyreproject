@@ -1,6 +1,5 @@
 #import modules
 from sklearn import tree
-import tkinter as tk
 
 """
 
