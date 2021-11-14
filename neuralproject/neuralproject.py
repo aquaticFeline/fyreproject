@@ -23,7 +23,8 @@ def displayTextInstructions():
     print("Hello! This is a game between you and a simple AI.")
     print("Here's how it works: ")
     print("   You will give the AI a series of 4 numbers consisting of the numbers 0 and 1, like \"0101\"")
-    print("   The rule, which only you and I know, is that the furthestmost value would be the correct one, in this case \"1\"")
+    print("   The AI is trying to guess which column is special.")
+    print("   The rule, which only you and I know, is that the last value would be the correct one, in this case \"1\"")
     print("   Disclaimer: Do not enter words, and avoid using numbers other than 0 and 1 because there may be unintended results!")
     print()
 
