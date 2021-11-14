@@ -12,3 +12,6 @@ This program only uses the modules sklearn and tkinter
 tkinter is a built in module, but you can download sklearn by doing
 	pip install -U scikit-learn
 in the terminal
+
+WIP - To run as an executable for those without python, open this link, download, and see if the executable within the disk folder runs
+https://drive.google.com/drive/folders/1jMQPc4OAA_6m0Nepx9XJWXiUr4ApFE_3?usp=sharing
