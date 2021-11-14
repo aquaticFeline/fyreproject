@@ -52,8 +52,9 @@ window.title("AI game")
 instructions = tk.Label(text = "Hello! This is a game between you and a simple AI.")
 instructions2 = tk.Label(text = "Here's how it works: ")
 instructions3 = tk.Label(text = "You will give the AI a series of 4 numbers consisting of the numbers 0 and 1, like \"0101\" \n" +
-                        "The rule, which only you and I know, is that the furthestmost value would be the correct one, in this case \"1\"\n"
-                         + "Enter a value in each text box, and then click \"Guess?\" when done, and the AI will guess below. \n" + 
+                        "The AI is trying to guess which column is special." +
+                        "The rule, which only you and I know, is that the last value would be the correct one, in this case \"1\"\n" +
+                        "Enter a value in each text box, and then click \"Guess?\" when done, and the AI will guess below. \n" + 
                         "Disclaimer: Do not enter words, and avoid using numbers other than 0 and 1 because there may be unintended results!")
 
 entry1 = tk.Entry()
