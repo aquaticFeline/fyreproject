@@ -12,3 +12,5 @@ This program only uses the modules sklearn and tkinter
 tkinter is a built in module, but you can download sklearn by doing
 	pip install -U scikit-learn
 in the terminal
+
+It's also on my replit, at: https://replit.com/@aquaticFeline 
